@@ -1,4 +1,4 @@
-# Electronic-pulse [WareHouse](https://www.electronic-pulse.web.app) 
+# Electronic-pulse [WareHouse](electronic-pulse.web.app) 
 
 ## Features
 * The site featuring Firebase Authentication. User can sign in and 
