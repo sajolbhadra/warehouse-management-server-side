@@ -17,5 +17,5 @@
 
 
 ### Other 3rd party Extensions
-* useFirebase hooks
+* React Firebase hooks
 * Fontawesome icons
